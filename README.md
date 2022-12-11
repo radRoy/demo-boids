@@ -1,5 +1,7 @@
 # demo-boids
-Demonstration repository of my boids project (part of the course ESC202 simulations in the natural sciences)
+Demonstration repository of the boids simulation project of my partner's and mine (part of the course ESC202 simulations in the natural sciences)
+
+The code was completely self-written and the equations taken from the paper contained in this repository. Refer to the presentation PDF for more detailed sources.
 
 ## background of this project
 read the presentation PDF `Boids.pdf` and refer to the two video files documenting the progress & problems along the way
