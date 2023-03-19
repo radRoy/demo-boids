@@ -1,0 +1,25 @@
+# https://www.github.com/radRoy/demo-boids
+
+# creation date of this file: 2023.03.19
+
+# probably some other versions work, too,
+#  the dev. was likely done with other versions, too.
+
+# python version was 3.11.2, used in
+#  successful test run of running from requirements.txt file.
+#  (probably works with 3.8 or so, too)
+#  (just try with your current python before changing your stuff)
+
+contourpy==1.0.7
+cycler==0.11.0
+fonttools==4.39.2
+kiwisolver==1.4.4
+matplotlib==3.7.1
+numpy==1.24.2
+packaging==23.0
+Pillow==9.4.0
+pygame==2.3.0
+pygame-widgets==1.1.1
+pyparsing==3.0.9
+python-dateutil==2.8.2
+six==1.16.0
