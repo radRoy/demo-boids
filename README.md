@@ -10,7 +10,7 @@ read the presentation PDF `Boids.pdf` and refer to the two video files documenti
 ## running the simulation
 - download the code as a .zip file
 - extract to another folder
-- execute `main.py`
+- execute `main.py` by typing `python main.py` into your virtual environment (I used `py -m venv <envName>` to create mine).
   - you might need to install some python libraries like pygame and numpy
 
 As of now, there is a `requirements.txt` file available, which I created when trying to run the `main.py` file from the Windows `cmd.exe` console.  
