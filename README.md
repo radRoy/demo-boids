@@ -4,6 +4,12 @@ and mine (part of the course ESC202 simulations in the natural sciences)
 
 The code was completely self-written and the equations taken from the paper contained in this repository. Refer to the presentation PDF for more detailed sources.
 
+Testing image embedding 1 - absolute link:
+![Boids swarming about (presentation title slide) 1](https://github.com/radRoy/demo-boids/blob/master/Boids_pdf_title_screen.png)
+
+Testing image embedding 2 - relative link:
+![Boids swarming about (presentation title slide) 2](demo-boids/Boids_pdf_title_screen.png)
+
 ## Background of this project
 Read the presentation PDF `Boids.pdf` and refer to the two video files documenting the progress & problems along the way
 
