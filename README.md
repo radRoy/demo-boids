@@ -10,6 +10,8 @@ Testing image embedding 1 - absolute link:
 Testing image embedding 2 - relative link:
 ![Boids swarming about (presentation title slide) 2](demo-boids/Boids_pdf_title_screen.png)
 
+![Boids swarming about (presentation title slide) 1](https://github.com/radRoy/demo-boids/blob/master/Boids.pdf)
+
 ## Background of this project
 Read the presentation PDF `Boids.pdf` and refer to the two video files documenting the progress & problems along the way
 
