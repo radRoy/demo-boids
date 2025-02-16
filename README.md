@@ -1,19 +1,13 @@
 # demo-boids
-Demonstration repository of the boids simulation project of my partner's ([@Jacqueline-Ulken](https://github.com/Jacqueline-Ulken))
-and mine (part of the course ESC202 simulations in the natural sciences)
+Demonstration repository of the boids simulation project of my partner's ([@Jacqueline-Ulken](https://github.com/Jacqueline-Ulken)) and mine (part of the course ESC202 simulations in the natural sciences).
 
-The code was completely self-written and the equations taken from the paper contained in this repository. Refer to the presentation PDF for more detailed sources.
+The code was completely self-written and the equations taken from the paper contained in this repository. Refer to [the presentation PDF](https://github.com/radRoy/demo-boids/blob/master/Boids.pdf) for more detailed sources.
 
-Testing image embedding 1 - absolute link:
 ![Boids swarming about (presentation title slide) 1](https://github.com/radRoy/demo-boids/blob/master/Boids_pdf_title_screen.png)
-
-Testing image embedding 2 - relative link:
-![Boids swarming about (presentation title slide) 2](demo-boids/Boids_pdf_title_screen.png)
-
-![Boids swarming about (presentation title slide) 1](https://github.com/radRoy/demo-boids/blob/master/Boids.pdf)
+Boids swarming about.
 
 ## Background of this project
-Read the presentation PDF `Boids.pdf` and refer to the two video files documenting the progress & problems along the way
+Read the presentation PDF [`Boids.pdf`](https://github.com/radRoy/demo-boids/blob/master/Boids.pdf) and refer to the two video files documenting the progress & problems along the way.
 
 ## Running the simulation
 - Download the code as a .zip file
