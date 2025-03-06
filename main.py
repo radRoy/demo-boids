@@ -124,7 +124,7 @@ def draw_buttons(display, buttons):
 def draw_actors(sim, display):
     """Iterates over all the actors in the simulation and draws them on screen."""
     for actor in sim.actors:
-        # get the average direction of the last few frames of the actor
+        # Reduce boid jittering animation (get the average direction of the last few frames of the actor)
         direction = Vector(0, 0)
         for d in actor.dir_history:
             direction += d
@@ -159,13 +159,13 @@ def main(sim, fps, window_size):
 
     wall_start = None
 
-    # Main game loop
+    # Main game loop - The simulation runs as long as this loop runs.
     while True:
 
-        # Get all events
+        # Get all pygame (pg) events
         events = pg.event.get()
         for event in events:
-            # exit the (py) interpreter (end program) if the pygame windows is closed
+            # exit the (py) interpreter (end program) if the pygame window is closed
             if event.type == pg.QUIT:
                 sys.exit()  # prints 1 in case of error(s)
 
