@@ -127,3 +127,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# ignore all temporary MS Office files that exist while editing inside this git repo
+*~$*.xlsx
+*~$*.xls
+*~$*.docx
+*~$*.doc
+*~$*.pptx
+*~$*.ppt

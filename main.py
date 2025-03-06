@@ -213,8 +213,15 @@ def main(sim, fps, window_size):
 
 
 if __name__ == "__main__":
-    res = (1080, 720)
-    Sim = Simulation(res, 200)
+    HD = (1080, 720)
+    lessHD = (800, 640)
+
+
+    res = lessHD
+    FHD = (1920, 1080)  # TEMP
+    res = FHD  # TEMP
+    res = HD  # TEMP
+    Sim = Simulation(res, 100)
     Sim.setup()
 
-    main(sim=Sim, fps=30, window_size=res)
+    main(sim=Sim, fps=48, window_size=res)

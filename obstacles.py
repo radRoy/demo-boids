@@ -1,5 +1,5 @@
 from vectors2d import Vector
-import matplotlib.pyplot as plt
+import matplotlib.pyplot as plt  # never used
 import math
 
 
