@@ -1,7 +1,7 @@
 # demo-boids
 Demonstration repository of the boids simulation project of my partner's ([@Jacqueline-Ulken](https://github.com/Jacqueline-Ulken)) and mine (part of the course ESC202 simulations in the natural sciences).
 
-The code was completely self-written and the equations taken from the paper contained in this repository. Refer to [the presentation PDF](https://github.com/radRoy/demo-boids/blob/master/Boids.pdf) for more detailed sources.
+The code was completely self-written by Jacqueline and me and the equations taken from the paper contained in this repository. Refer to [the presentation PDF](https://github.com/radRoy/demo-boids/blob/master/Boids.pdf) for more detailed sources.
 
 ![Boids swarming about (presentation title slide) 1](https://github.com/radRoy/demo-boids/blob/master/Boids_pdf_title_screen.png)
 Boids swarming about.
