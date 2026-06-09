@@ -109,6 +109,8 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+uv.lock
+pyproject.toml
 
 # Spyder project settings
 .spyderproject
@@ -135,3 +137,8 @@ dmypy.json
 *~$*.doc
 *~$*.pptx
 *~$*.ppt
+
+# pycharm
+.idea/*
+.idea/demo-boids.iml
+.idea/workspace.xml
