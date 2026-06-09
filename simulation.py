@@ -1,6 +1,6 @@
 import numpy as np
-from actors import Actor, Boid, Predator
-from obstacles import Obstacle, Circle, Wall
+from actors import Boid, Predator
+from obstacles import Wall
 from vectors2d import Vector
 
 

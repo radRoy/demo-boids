@@ -6,8 +6,8 @@ from pygame_widgets.slider import Slider
 from pygame_widgets.textbox import TextBox
 import actors
 from simulation import Simulation
-from actors import Actor, Boid, Predator
-from obstacles import Obstacle, Circle, Wall
+from actors import Predator
+from obstacles import Circle, Wall
 from vectors2d import Vector
 
 WHITE = (255, 255, 255)
@@ -196,7 +196,7 @@ def main(sim, fps, window_size):
                     sim.add_obstacles(wall)
                     wall_start = None
 
-        # preaparing the next empty frame
+        # preparing the next empty frame
         display.fill(WHITE)
         dt = clock.tick(fps)
         slider_update(slider_settings)  # fetching parameters (live!)
@@ -221,7 +221,7 @@ if __name__ == "__main__":
     FHD = (1920, 1080)  # TEMP
     res = FHD  # TEMP
     res = HD  # TEMP
-    Sim = Simulation(res, 100)
+    Sim = Simulation(res, 150)
     Sim.setup()
 
     main(sim=Sim, fps=48, window_size=res)
