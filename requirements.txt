@@ -14,7 +14,7 @@ contourpy==1.0.7
 cycler==0.11.0
 fonttools==4.60.2
 kiwisolver==1.4.4
-matplotlib==3.7.1
+matplotlib==3.7.1  # Pillow is explicitly listed as a dependency, see https://matplotlib.org/stable/install/dependencies.html
 numpy==1.24.2
 packaging==23.0
 pygame==2.3.0
